@@ -1,4 +1,6 @@
 class Module{
+
+    // Propriete de la classe Module
     private String nom;
     private int coef;
 
