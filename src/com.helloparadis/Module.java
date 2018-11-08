@@ -2,6 +2,7 @@ class Module{
     private String nom;
     private int coef;
 
+    //Conctructeur
     public Module(String nom, int coef) {
     }
 
