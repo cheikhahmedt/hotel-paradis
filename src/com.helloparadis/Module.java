@@ -2,7 +2,7 @@ class Module{
     private String nom;
     private int coef;
 
-    public Module() {
+    public Module(String nom, int coef) {
     }
 
     public String getNom() {
