@@ -6,6 +6,8 @@ class Module{
     public Module(String nom, int coef) {
     }
 
+
+    // Setters and Getters
     public String getNom() {
         return nom;
     }
